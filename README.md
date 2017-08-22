@@ -1,7 +1,7 @@
 # LearnBaseQuickAdapter
 学习使用BaseQuickAdapter,玩转RecyclerView通用适配器
 
-> github传送门：[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper "BaseRecyclerViewAdapterHelper")
+> 框架传送门：[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper "BaseRecyclerViewAdapterHelper")
 
 > 本项目只作为自己测试备份使用
 
